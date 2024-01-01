@@ -1,0 +1,1000 @@
+@media (min-width: 320px) and (max-width: 575.98px) { 
+/* ==================================Navbar start==================================== */
+    .fa-solid.fa-bars {
+        color: orange;
+    }  
+
+    
+    .navbar-toggler:focus {
+        box-shadow: none;
+
+    }  
+
+    .navbar .navbar-nav {
+        row-gap: 10px;
+    }
+    .navbar .navbar-nav .nav-item .nav-link {
+        color: black;
+    }
+    .navbar .navbar-nav .nav-item .nav-link .active {
+        color: black;
+    }
+    .navbar .navbar-nav .last i {
+        padding: 10px;
+        border-radius: 5px;
+    }
+
+    .navbar .navbar-nav .last button {
+        padding: 8px 18px; 
+        font-size: 12px; 
+        border-radius: 5px;
+    }
+    .navbar .navbar-nav .last {
+        display: flex;
+    }
+
+    #navbarSupportedContent {
+        margin-top: 14px;
+        background: #46d1e7;
+        border-radius: 12px;
+        padding: 10px;
+    }
+/* ==================================Navbar end==================================== */
+/* ==================================banner start==================================== */
+#Banner_part {
+	padding: 10px 0 30px;
+	
+}
+
+#Banner_part .container .row .text {
+	text-align:center ;
+}
+
+#Banner_part .container .row .text h1 {
+	font-size: 24px;	
+}
+#Banner_part .container .row .text h1 span{
+	font-size: 24px;	
+}
+
+#Banner_part .container .row .text p {
+	width: auto;
+	margin-top: 12px;
+    font-size: 14px;	
+}
+
+#Banner_part .container .row .text button {
+	margin-top: 13px;
+	padding: 8px 12px;
+	font-size: 12px;
+}
+#Banner_part .container .row .banner_img img {
+	width: 100%;
+	padding-top: 24px;
+}
+#Banner_part .container .row .text button i{
+    margin-left: 6px;
+ }
+/* ==================================banner end==================================== */
+/* ==================================Service start================================= */
+#Service_part {
+	padding-top: 60px;
+}
+#Service_part .container {
+	padding-bottom: 60px;
+}
+#Service_part .container .title h2 {
+	font-size: 22px;
+}
+#Service_part .container .title h3 {
+	font-size: 20px;
+}
+#Service_part .container .row {
+    row-gap: 20px;
+}
+#Service_part .container .row .box {
+	padding: 20px 30px 30px 20px;
+}
+#Service_part .container .row .box button {
+	margin-top: 16PX;
+	padding: 10px 28px;	
+	font-size: 14px;	
+}
+#Service_part .container .row .box h2 {
+    margin-top: 17px;
+	font-size: 18px;	
+}
+
+#Service_part .container .row .box p {
+	margin-top: 16PX;
+	font-size: 14px;
+}
+
+/* ==================================Service end==================================== */
+/* ==================================about start==================================== */
+#about_part {
+	padding-top: 60px;
+}
+#about_part .container .row{
+    row-gap: 40px;
+    margin-bottom: 50px;
+}
+#about_part .container .row h2 {
+	font-size: 26px;	
+}
+
+#about_part .container .row p {
+   font-size: 16px;
+
+}
+#about_part iframe {
+	width: auto;
+	height: 220px;
+}
+
+/* ==================================about end==================================== */
+/* ==================================testimonial start============================= */
+#testimonial {
+	padding-top: 50px;
+
+}
+.row {
+	text-align: center;
+}
+
+#testimonial .container .bottom{
+    padding-left: 0;
+    padding-right:0;
+    margin-top: 26px;
+}
+#testimonial .container .top h2 {
+	font-size: 26.25px;	
+}
+#testimonial .container .top h3 {
+	font-size: 20px;
+}
+#testimonial .container .bottom .row .box p {
+	width: auto;
+	font-size: 12px;	
+}
+#testimonial .container .bottom .row .box .footer {
+	flex-direction: column;
+}
+
+#testimonial .container .bottom .row .box .footer .right {
+	margin-top: 20px;
+}
+
+#testimonial .container .bottom .box{
+    border-radius: 0;
+}
+
+#testimonial .container .bottom .row .box {
+	height: 516px;
+}
+/* ==================================testimonial end==================================== */
+/* ==================================Contact start====================================== */
+#Contact_us {
+	padding-top: 40px;	
+}
+
+#Contact_us .container .row .left h2 {
+   font-size: 22px;
+	
+}
+
+#Contact_us .container .row .left h3 {
+	width: auto;
+	font-size: 20px;
+}
+#Contact_us .container .row .left h4 {
+	width: auto;
+    font-size: 14px;
+}
+
+#Contact_us .container .row .right form input {
+	margin-top: 6px;
+	padding: 6px 50px 9px 14px;
+}
+
+#Contact_us .container .row .right form .message input {
+    margin-bottom: 20px;
+	margin-top: 6px;
+	padding: 6px 50px 40px 14px;
+}
+#Contact_us .container .row .right button {
+	padding: 6px 30px;
+	text-align: center;
+	font-size: 14px;
+    align-items: center;
+	margin: 0 auto;
+	
+}
+#Contact_us .container .map {
+	margin-top: 70px;
+}
+
+#Contact_us .container .map .title h2 {
+	font-size: 24px;
+}
+#Contact_us .container .map .title h3 {	
+	font-size: 24px;	
+}
+#Contact_us .container .maps {
+	width: auto;
+	height: 200px;
+}
+#Contact_us .container .map .main {
+	margin-top: 18px;
+}
+#Contact_us .container .map .main .text {
+	margin: 0 auto;
+	padding: 18px 71px 18px 20px;
+	width: 300px;
+}
+
+#Contact_us .container .map .row {
+	margin-top: 20px;
+}
+#Contact_us .container .map .main .text .bottom .icon {
+	margin-top: 20px;
+}
+
+#Contact_us .container .map .main .text .top h4 span {
+	margin-left: -38px;
+}
+
+#Contact_us .container .map .call {
+	margin-top: 18px;
+}
+
+#Contact_us .container .map .call button {
+	padding: 10px 40px;
+	
+}
+#Contact_us .container .map .call button a {
+   font-size: 12px;
+
+}
+
+
+/* ==================================Contact end======================================== */
+/* ==================================footer start======================================= */
+footer {
+	padding-top: 50px;
+	padding-bottom: 40px;
+
+}
+
+footer .container .top .row .left h2 {
+	font-size: 16px;
+}
+
+footer .container .top .row .left h3 {
+	margin-top: 16px;
+	width: auto;
+    font-size: 14px;
+}
+
+footer .container .top .row .right h6 {
+	margin-top: 26px;
+	font-size: 16px;
+
+}
+footer .container .top .row .right .form input {
+	margin-top: 14px;
+	padding: 8px 50px 8px 12px;
+	font-family: Raleway;
+	font-size: 16px;
+
+}
+footer .container .top .row .right .form button {
+	margin-top: 14px;
+	padding: 7px 13px;	
+	font-size: 20px;
+}
+
+footer .container .bottom .row p {
+	width: auto;	
+	font-size: 14px;	
+}
+footer .container .bottom .row h2 {
+	margin-top: 24px;	
+	font-size: 12px;
+}
+
+footer .container .bottom .row ul li a {
+	margin-top: 6px;
+	font-size: 13px;
+}
+
+.copyright h2 {
+	text-align: center;
+}
+
+.copyright h3 {
+	margin-top: 8px;
+	text-align: center;
+}
+
+/* ==================================footer end========================================= */
+
+ }
+
+/* ------------------------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------------------------- */
+ /* -------------------------------576px to 767.98px ----------------------------------------- */
+@media (min-width: 576px) and (max-width: 767.98px) { 
+/* ==================================Navbar start==================================== */
+    .fa-solid.fa-bars {
+        color: orange;
+    }  
+
+    
+    .navbar-toggler:focus {
+        box-shadow: none;
+
+    }  
+
+    .navbar .navbar-nav {
+        row-gap: 10px;
+    }
+    .navbar .navbar-nav .nav-item .nav-link {
+        color: black;
+    }
+    .navbar .navbar-nav .nav-item .nav-link .active {
+        color: black;
+    }
+    .navbar .navbar-nav .last i {
+        padding: 10px;
+        border-radius: 5px;
+    }
+
+    .navbar .navbar-nav .last button {
+        padding: 8px 18px; 
+        font-size: 12px; 
+        border-radius: 5px;
+    }
+    .navbar .navbar-nav .last {
+        display: flex;
+    }
+
+    #navbarSupportedContent {
+        margin-top: 14px;
+        background: #46d1e7;
+        border-radius: 12px;
+        padding: 10px;
+    }
+/* ==================================Navbar end==================================== */
+/* ==================================banner start==================================== */
+#Banner_part {
+	padding: 10px 0 30px;
+	
+}
+
+#Banner_part .container .row .text {
+	text-align:center ;
+}
+
+#Banner_part .container .row .text h1 {
+	font-size: 24px;	
+}
+#Banner_part .container .row .text h1 span{
+	font-size: 24px;	
+}
+
+#Banner_part .container .row .text p {
+	width: auto;
+	margin-top: 12px;
+    font-size: 14px;	
+}
+
+#Banner_part .container .row .text button {
+	margin-top: 13px;
+	padding: 8px 12px;
+	font-size: 12px;
+}
+#Banner_part .container .row .banner_img img {
+	width: 100%;
+	padding-top: 24px;
+}
+#Banner_part .container .row .text button i{
+    margin-left: 6px;
+ }
+/* ==================================banner end==================================== */
+/* ==================================Service start================================= */
+#Service_part {
+	padding-top: 60px;
+}
+#Service_part .container {
+	padding-bottom: 60px;
+}
+#Service_part .container .title h2 {
+	font-size: 22px;
+}
+#Service_part .container .title h3 {
+	font-size: 20px;
+}
+#Service_part .container .row {
+    row-gap: 20px;
+}
+#Service_part .container .row .box {
+	padding: 20px 30px 30px 20px;
+}
+#Service_part .container .row .box button {
+	margin-top: 16PX;
+	padding: 10px 28px;	
+	font-size: 14px;	
+}
+#Service_part .container .row .box h2 {
+    margin-top: 17px;
+	font-size: 18px;	
+}
+
+#Service_part .container .row .box p {
+	margin-top: 16PX;
+	font-size: 14px;
+}
+
+/* ==================================Service end==================================== */
+/* ==================================about start==================================== */
+#about_part {
+	padding-top: 60px;
+}
+#about_part .container .row{
+    row-gap: 40px;
+    margin-bottom: 50px;
+}
+#about_part .container .row h2 {
+	font-size: 26px;	
+}
+
+#about_part .container .row p {
+   font-size: 16px;
+
+}
+#about_part iframe {
+	width: 524px;
+	height: 300px;
+}
+
+/* ==================================about end==================================== */
+/* ==================================testimonial start============================= */
+#testimonial {
+	padding-top: 50px;
+
+}
+.row {
+	text-align: center;
+}
+
+#testimonial .container .bottom{
+    padding-left: 0;
+    padding-right:0;
+    margin-top: 26px;
+}
+#testimonial .container .top h2 {
+	font-size: 26.25px;	
+}
+#testimonial .container .top h3 {
+	font-size: 20px;
+}
+#testimonial .container .bottom .row .box p {
+	width: auto;
+	font-size: 18px;
+}
+#testimonial .container .bottom .row .box .footer {
+	flex-direction: column;
+}
+
+#testimonial .container .bottom .row .box .footer .right {
+	margin-top: 20px;
+}
+
+#testimonial .container .bottom .box{
+    border-radius: 0;
+}
+
+#testimonial .container .bottom .row .box {
+	height: 516px;
+}
+/* ==================================testimonial end==================================== */
+/* ==================================Contact start====================================== */
+#Contact_us {
+	padding-top: 40px;	
+}
+
+#Contact_us .container .row .left h2 {
+   font-size: 22px;
+	
+}
+
+#Contact_us .container .row .left h3 {
+	width: auto;
+	font-size: 20px;
+}
+#Contact_us .container .row .left h4 {
+	width: auto;
+    font-size: 14px;
+}
+
+#Contact_us .container .row .right form input {
+	margin-top: 6px;
+	padding: 6px 200px 9px 14px;
+}
+
+#Contact_us .container .row .right form .message input {
+    margin-bottom: 20px;
+	margin-top: 6px;
+	padding: 6px 200px 60px 14px;
+}
+#Contact_us .container .row .right button {
+	padding: 6px 30px;
+	text-align: center;
+	font-size: 14px;
+    align-items: center;
+	margin: 0 auto;
+	
+}
+#Contact_us .container .map {
+	margin-top: 70px;
+}
+
+#Contact_us .container .map .title h2 {
+	font-size: 24px;
+}
+#Contact_us .container .map .title h3 {	
+	font-size: 24px;	
+}
+#Contact_us .container .maps {
+	width: 524px;
+	height: 300px;
+}
+#Contact_us .container .map .main {
+	margin-top: 18px;
+}
+#Contact_us .container .map .main .text {
+	padding: 34px 174px 18px 20px;
+	width: auto;
+	margin: 0 auto;
+}
+#Contact_us .container .map .main .text h2 {	
+	font-size: 30px;	
+}
+#Contact_us .container .map .row {
+	margin-top: 20px;
+}
+
+#Contact_us .container .map .main .text .bottom .icon {
+	margin-top: 20px;
+}
+#Contact_us .container .map .main .text .top h5 {
+	margin-left: -120px;
+}
+#Contact_us .container .map .main .text .top h3 {	
+	margin-left: 8px;
+}
+#Contact_us .container .map .main .text .top h4 span {
+	margin-left: -38px;
+}
+
+#Contact_us .container .map .call {
+	margin-top: 18px;
+}
+
+#Contact_us .container .map .call button {
+	padding: 10px 40px;
+	
+}
+#Contact_us .container .map .call button a {
+   font-size: 12px;
+
+}
+
+
+/* ==================================Contact end======================================== */
+/* ==================================footer start======================================= */
+footer {
+	padding-top: 50px;
+	padding-bottom: 40px;
+
+}
+
+footer .container .top .row .left h2 {
+	font-size: 16px;
+}
+
+footer .container .top .row .left h3 {
+	margin-top: 16px;
+	width: auto;
+    font-size: 14px;
+}
+
+footer .container .top .row .right h6 {
+	margin-top: 26px;
+	font-size: 16px;
+
+}
+footer .container .top .row .right .form input {
+	margin-top: 14px;
+	padding: 8px 50px 8px 12px;
+	font-family: Raleway;
+	font-size: 16px;
+
+}
+footer .container .top .row .right .form button {
+	margin-top: 14px;
+	padding: 7px 13px;	
+	font-size: 20px;
+}
+
+footer .container .bottom .row p {
+	width: auto;	
+	font-size: 14px;	
+}
+footer .container .bottom .row h2 {
+	margin-top: 24px;	
+	font-size: 12px;
+}
+
+footer .container .bottom .row ul li a {
+	margin-top: 6px;
+	font-size: 13px;
+}
+
+.copyright h2 {
+	text-align: center;
+}
+
+.copyright h3 {
+	margin-top: 8px;
+	text-align: center;
+}
+
+/* ==================================footer end========================================= */
+
+ }
+
+
+
+/* ------------------------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------------------------- */
+/* --------------------------------------768px to 991.98px ----------------------------------------------------- */
+ @media (min-width: 768px) and (max-width: 991.98px) { 
+	/* ==================================Navbar start==================================== */
+		.fa-solid.fa-bars {
+			color: orange;
+		}  
+	
+		
+		.navbar-toggler:focus {
+			box-shadow: none;
+	
+		}  
+	
+		.navbar .navbar-nav {
+			row-gap: 10px;
+		}
+		.navbar .navbar-nav .nav-item .nav-link {
+			color: black;
+		}
+		.navbar .navbar-nav .nav-item .nav-link .active {
+			color: black;
+		}
+		.navbar .navbar-nav .last i {
+			padding: 10px;
+			border-radius: 5px;
+		}
+	
+		.navbar .navbar-nav .last button {
+			padding: 8px 18px; 
+			font-size: 12px; 
+			border-radius: 5px;
+		}
+		.navbar .navbar-nav .last {
+			display: flex;
+		}
+	
+		#navbarSupportedContent {
+			margin-top: 14px;
+			background: #46d1e7;
+			border-radius: 12px;
+			padding: 10px;
+		}
+	/* ==================================Navbar end==================================== */
+	/* ==================================banner start==================================== */
+	#Banner_part {
+		padding: 10px 0 30px;
+		
+	}
+	
+	#Banner_part .container .row .text {
+		text-align:center ;
+	}
+	
+	#Banner_part .container .row .text h1 {
+		font-size: 30px;
+	}
+	#Banner_part .container .row .text h1 span{
+		font-size: 30px;	
+	}
+	
+	#Banner_part .container .row .text p {
+		width: auto;
+		margin-top: 12px;
+		font-size: 20px;
+	}
+	
+	#Banner_part .container .row .text button {
+		margin-top: 13px;
+		padding: 8px 12px;
+		font-size: 12px;
+	}
+	#Banner_part .container .row .banner_img img {
+		width: 100%;
+		padding-top: 24px;
+	}
+	#Banner_part .container .row .text button i{
+		margin-left: 6px;
+	 }
+	/* ==================================banner end==================================== */
+	/* ==================================Service start================================= */
+	#Service_part {
+		padding-top: 60px;
+	}
+	#Service_part .container {
+		padding-bottom: 60px;
+	}
+	#Service_part .container .title h2 {
+		font-size: 26px;
+	}
+	#Service_part .container .title h3 {
+		font-size: 26px;
+	}
+	#Service_part .container .row {
+		row-gap: 20px;
+	}
+	#Service_part .container .row .box {
+		padding: 70px 30px 70px 20px;
+	}
+	#Service_part .container .row .box button {
+		margin-top: 16PX;
+		padding: 10px 28px;	
+		font-size: 14px;	
+	}
+	#Service_part .container .row .box h2 {
+		margin-top: 17px;
+		font-size: 24px;	
+	}
+	
+	#Service_part .container .row .box p {
+		margin-top: 16PX;
+		font-size: 18px;
+	}
+	#Service_part .container .row .box ol {
+		font-size: 20px;
+	}
+	/* ==================================Service end==================================== */
+	/* ==================================about start==================================== */
+	#about_part {
+		padding-top: 60px;
+	}
+	#about_part .container .row {	
+		display: flex;
+		justify-content: space-between;
+	}
+	#about_part .container .row h2 {
+		font-size: 26px;	
+	}
+	
+	#about_part .container .row p {
+	   font-size: 16px;
+	
+	}
+	#about_part iframe {
+		width: 700px;
+		height: 400px;
+	}
+	
+	/* ==================================about end==================================== */
+	/* ==================================testimonial start============================= */
+	#testimonial {
+		padding-top: 50px;
+	
+	}
+	.row {
+		text-align: center;
+	}
+	
+	#testimonial .container .bottom{
+		padding-left: 0;
+		padding-right:0;
+		margin-top: 26px;
+	}
+	#testimonial .container .top h2 {
+		font-size: 34.25px;
+	}
+	#testimonial .container .top h3 {
+		font-size: 30px;
+	}
+	#testimonial .container .bottom .row .box h2 {
+	   font-size: 30px;
+	}
+	#testimonial .container .bottom .row .box p {
+		width: auto;
+		font-size: 18px;
+	}
+	#testimonial .container .bottom .row .box .footer {
+		flex-direction: column;
+	}
+	
+	#testimonial .container .bottom .row .box .footer .right {
+		margin-top: 20px;
+	}
+	
+	#testimonial .container .bottom .box{
+		border-radius: 0;
+	}
+	
+	#testimonial .container .bottom .row .box {
+		height: 516px;
+	}
+	/* ==================================testimonial end==================================== */
+	/* ==================================Contact start====================================== */
+	#Contact_us {
+		padding-top: 40px;	
+	}
+	
+	#Contact_us .container .row .left h2 {
+	   font-size: 22px;
+		
+	}
+	
+	#Contact_us .container .row .left h3 {
+		width: auto;
+		font-size: 20px;
+	}
+	#Contact_us .container .row .left h4 {
+		width: auto;
+		font-size: 14px;
+	}
+	
+	#Contact_us .container .row .right form input {
+		margin-top: 6px;
+		padding: 6px 200px 9px 14px;
+	}
+	
+	#Contact_us .container .row .right form .message input {
+		margin-bottom: 20px;
+		margin-top: 6px;
+		padding: 6px 200px 60px 14px;
+	}
+	#Contact_us .container .row .right button {
+		padding: 6px 30px;
+		text-align: center;
+		font-size: 14px;
+		align-items: center;
+		margin: 0 auto;
+		
+	}
+	#Contact_us .container .map {
+		margin-top: 70px;
+	}
+	
+	#Contact_us .container .map .title h2 {
+		font-size: 24px;
+	}
+	#Contact_us .container .map .title h3 {	
+		font-size: 24px;	
+	}
+	#Contact_us .container .maps {
+		width: 524px;
+		height: 300px;
+	}
+	#Contact_us .container .map .main {
+		margin-top: 18px;
+	}
+	#Contact_us .container .map .main .text {
+		padding: 34px 174px 18px 20px;
+		width: auto;
+		margin: 0 auto;
+	}
+	#Contact_us .container .map .main .text h2 {	
+		font-size: 30px;	
+	}
+	#Contact_us .container .map .row {
+		margin-top: 20px;
+	}
+	
+	#Contact_us .container .map .main .text .bottom .icon {
+		margin-top: 20px;
+	}
+	#Contact_us .container .map .main .text .top h5 {
+		margin-left: -120px;
+	}
+	#Contact_us .container .map .main .text .top h3 {	
+		margin-left: 8px;
+	}
+	#Contact_us .container .map .main .text .top h4 span {
+		margin-left: -38px;
+	}
+	
+	#Contact_us .container .map .call {
+		margin-top: 18px;
+	}
+	
+	#Contact_us .container .map .call button {
+		padding: 10px 40px;
+		
+	}
+	#Contact_us .container .map .call button a {
+	   font-size: 12px;
+	
+	}
+	
+	
+	/* ==================================Contact end======================================== */
+	/* ==================================footer start======================================= */
+	footer {
+		padding-top: 50px;
+		padding-bottom: 40px;
+	
+	}
+	
+	footer .container .top .row .left h2 {
+		font-size: 16px;
+	}
+	
+	footer .container .top .row .left h3 {
+		margin-top: 16px;
+		width: auto;
+		font-size: 14px;
+	}
+	
+	footer .container .top .row .right h6 {
+		margin-top: 26px;
+		font-size: 16px;
+	
+	}
+	footer .container .top .row .right .form input {
+		margin-top: 14px;
+		padding: 8px 50px 8px 12px;
+		font-family: Raleway;
+		font-size: 16px;
+	
+	}
+	footer .container .top .row .right .form button {
+		margin-top: 14px;
+		padding: 7px 13px;	
+		font-size: 20px;
+	}
+	
+	footer .container .bottom .row p {
+		width: auto;	
+		font-size: 14px;	
+	}
+	footer .container .bottom .row h2 {
+		margin-top: 24px;	
+		font-size: 12px;
+	}
+	
+	footer .container .bottom .row ul li a {
+		margin-top: 6px;
+		font-size: 13px;
+	}
+	
+	.copyright h2 {
+		text-align: center;
+	}
+	
+	.copyright h3 {
+		margin-top: 8px;
+		text-align: center;
+	}
+	
+	/* ==================================footer end========================================= */
+	
+	 }
